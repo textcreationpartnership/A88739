@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last true intelligence from Warwick: being a certaine relation of the death of the Earle of Lindsey, lord generall of the Kings army, who was sorely wounded upon his being taken prisoner in the late battell neer Banbury. Also an exact relation from the forces of Lincolnshire, which have joyned themselves with the Lord Fairfax and Captain Hotham in Yorkshire, with their present proceedings in that county against the Earle of Cumberland and the cavaliers.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88739</idno><idno type="EEBO-CITATION">99871339</idno>
+  <idno type="VID">123749</idno>
+  <idno type="EEBO-PROQUEST">2240940779</idno>
+  
+            <idno type="STC">Wing L510</idno>
+            <idno type="STC">Thomason E124_35</idno>
+            <idno type="STC">ESTC R212763</idno>
+            <idno type="PROQUEST">99871339</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871339e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123749)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last true intelligence from Warwick: being a certaine relation of the death of the Earle of Lindsey, lord generall of the Kings army, who was sorely wounded upon his being taken prisoner in the late battell neer Banbury. Also an exact relation from the forces of Lincolnshire, which have joyned themselves with the Lord Fairfax and Captain Hotham in Yorkshire, with their present proceedings in that county against the Earle of Cumberland and the cavaliers.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Octob. 31. Printed for Thomas Watson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lindsey, Robert Bertie, --  Earl of, 1582-1642 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Banbury(England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123749:1"/>
+            <p>THE LAST TRUE INTELLIGENCE <hi>FROM</hi> WARWICK: <hi>BEING</hi> A certaine Relation of the death of the Earle of <hi>Lindsey,</hi> Lord Generall of the KINGS Army, who was sorely wounded upon his being taken prisoner in the late battell neer <hi>Banbury.</hi>
+            </p>
+            <p>ALSO An exact Relation from the Forces of <hi>Lincolnshire,</hi> which have joyned themselves with the Lord <hi>Fairfax</hi> and Captain <hi>Hotham</hi> in <hi>Yorkshire,</hi> with their present proceedings in that County against the Earle of <hi>Cumberland</hi> and the Cavaliers.</p>
+            <p>
+               <hi>LONDON, Octob.</hi> 31. Printed for <hi>Thomas Watson.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:123749:2"/>
+            <pb n="1" facs="tcp:123749:2"/>
+            <head>
+               <hi>THE LAST</hi> TRUE INTELLIGENCE <hi>FROM</hi> WARWICK: <hi>BEING</hi> A true Relation of the death of the Earle of <hi>Lindsey,</hi> Lord Generall of the Kings Forces, who was taken Prisoner in the late battell, and carried to <hi>Warwick</hi> Castle. <hi>Also a true Relation of all the present proceedings in</hi> Yorkshire, <hi>between the Lord</hi> Fairfax, <hi>and the Earle of</hi> Cumberland.</head>
+            <p>AFter the late battell neere Banbury, between his Excellence the Earle of Essex, and the Kings Forces, where<g ref="char:EOLhyphen"/>in many were slaine on both sides, and di<g ref="char:EOLhyphen"/>verse eminent men of the Kings Party ta<g ref="char:EOLhyphen"/>ken prisoners, as the Earl of Lindsey Lord chiefe Generall of His Majesties Forces, the Lord Willoughby of Eresby his sonne,
+<pb n="2" facs="tcp:123749:3"/> Sir Edmund Stradling, Colonell Vavasor, Colonell Lunsford, and divers more, his Excellency remaining Master of the field, marched with his Forces to Warwick, and is come safe thither, and hath laid his pri<g ref="char:EOLhyphen"/>soners in the Castle, but the Earle of Lind<g ref="char:EOLhyphen"/>sey, who was sorely wounded when he was taken prisoner, in the said battell, is since dead.</p>
+            <p>There was a Priests lately taken at Clar<g ref="char:EOLhyphen"/>kenwell, who had a Letter found about him full of treachery against the King and Parliament, wherein are discovered their policy used for the subversion of the Pro<g ref="char:EOLhyphen"/>testant Religion, the substance of it was to this effect: That none but the Kings enemies are chosen of the Parliament: and that the Parliament avowes, that they will begin with the least, and will not give over till they have extirpated him and his posterity. On the other side, the sincere parties that are to be admired for their in<g ref="char:EOLhyphen"/>defatigable industry, incessantly foment re<g ref="char:EOLhyphen"/>venge and jealousie in most of the Parlia<g ref="char:EOLhyphen"/>ment-men, especially they work upon the
+<pb n="3" facs="tcp:123749:3"/> pride and vain-glory of such as have beene imprisoned, possessing them, that they are the only martyrs &amp; Worthies of the coun<g ref="char:EOLhyphen"/>treys. London is as much distempered as Florence; for the Companies are at odds, and the Common Councell have opposed their Magistrates against the old custome, which hath bred a great deal of heart-bur<g ref="char:EOLhyphen"/>ning in the city, so that twice a day we can divulge what we list in Pauls, and upon the Exchange, you shall see the same sword that hath wounded us, being drawne upon the same wound with an oyl that we have, shal make us whole. And this shalbe done in Parliament, in charming the wisest and temperatest: with the violent sort we take a strange course, by working upon their passions, and inebriating their fancies with probabilities and presidents, that favourites may wrestle with Parliaments for a time, but at last a Parliament will overthrow their backs: we incourage them with all the wits we have, to fall upon some great persons neere Ais Majesty, and perswade them that now is the time or never, the
+<pb n="4" facs="tcp:123749:4"/> King being in such necessity, insomuch that we assure our selves, God hath forsaken and infatuated them, that they shall not on<g ref="char:EOLhyphen"/>ly strike against the same rock, but sink and ra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the bottome of the sea of destru<g ref="char:EOLhyphen"/>ction.</p>
+            <p>We have now many strings to our bow, and have strongly fortified our faction, and we have added two bulwarks more. For when K. JAMES was very violent against Arminianisme, and interrupted with his pestilent wit and deep learning our strong designes in Holland, and was a great friend to that old rebellious heretick the Prince of Orange; now we have planted the so<g ref="char:EOLhyphen"/>veraigne drug of Arminianisme, which we hope will purge the Protestants from their heresie, and will flourish and bear fruit in due season.</p>
+            <p>The foundation to build up the bulwark must be mutation; our mutation will cause reluctation, which will serve for as many violent diseases as the Stone, the Gowt, Tooth-ache, speedy destruction, or perpe<g ref="char:EOLhyphen"/>tuall insufferable anguish of the body,
+<pb n="5" facs="tcp:123749:4"/> which is worse then death it self.</p>
+            <p>There are other matters in hand of con<g ref="char:EOLhyphen"/>sequence which we take to consideration &amp; tender care, which is the state of the Pu<g ref="char:EOLhyphen"/>ritans, for they are impudent subtill people.</p>
+            <p>But to return again to our main fabrick: In the first place we take into consideration the Kings honour &amp; present necessity, and we shew how the King may free himselfe from his wardship as Lewis the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> did, and for his great splendor and lustre, he may raise vast summes, and not be beholden to his subiects, which is by way of imposition and Excise: we instance the Low Coun<g ref="char:EOLhyphen"/>treyes, and shew what a masse of money they raise to pay their armies both by sea and land meerly out of Excise.</p>
+            <p>Then our Church Catholikes proceed to shew the means how to settle this Excise which must be by an Army of horse and foot; for we have made it sure: they shall be Forraigners, and Germans, vvho vvill eat up the Kings revenues, and spoile the countreys vvheresoever they come, though they be vvell paid; vvhat havock vvill they
+<pb n="6" facs="tcp:123749:5"/> make then vvhen they have no pay. If the countrey be too hard for the souldiers, they must consequently outrage, vvhich is e<g ref="char:EOLhyphen"/>qually advantagious to us.</p>
+            <p>There are three Troupes of horse gone out of Lincolne shire into Yorkshire for the aid of the Lord Fairfax and Captaine Hotham, against the Earle of Cumberland and his Cavaliers: Captaine Hotham hath made good Cawood Castle and Selby, and is now to joyne his Forces with the Lord Fairfax, who hath raifed great store of men for the defence of the King &amp; Parliament. There is a Lieutenant Colonell and a Ser<g ref="char:EOLhyphen"/>jeant Major of the Kings Party taken in Buckinghamshire, and brought up to the Parliament, and committed to safe custody.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
